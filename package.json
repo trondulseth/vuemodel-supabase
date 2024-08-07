@@ -3,7 +3,7 @@
   "version": "0.0.6",
   "description": "Marrying the composition API with VuexOrm and Supabase",
   "author": "Trond Ulseth",
-  "repository": "https://github.com/trondulseth/supabase",
+  "repository": "https://github.com/trondulseth/vuemodel-supabase",
   "license": "MIT",
   "keywords": [
     "supabase",
