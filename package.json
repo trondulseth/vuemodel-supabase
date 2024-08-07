@@ -1,9 +1,9 @@
 {
-  "name": "@vuemodel/supabase",
-  "version": "0.0.5",
+  "name": "@trondulseth/supabase",
+  "version": "0.0.6",
   "description": "Marrying the composition API with VuexOrm and Supabase",
-  "author": "Luke Diebold",
-  "repository": "https://github.com/vuemodel/supabase",
+  "author": "Trond Ulseth",
+  "repository": "https://github.com/trondulseth/supabase",
   "license": "MIT",
   "keywords": [
     "supabase",

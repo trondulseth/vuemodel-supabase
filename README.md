@@ -1,3 +1,7 @@
+> **Fork notes:** this is a fork from Luke Diebolds @vuemodel/supabase. The goal is to update it a bit, first and foremost to use supabase v2 instead of v1, but also update some of the dependancies which are outdated.
+
+>From here on, this is the original readme from Luke:
+
 # A Quick Note...
 Currently, this package is a bit of an experiment!
 If you'd like to use these concepts in production that's okay, yet I'd recommend forking this repo and making it your own. At least until these concepts standardize.
